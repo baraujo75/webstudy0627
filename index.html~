@@ -7,19 +7,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div id="container" class="container">
-    <div class="hamburguer" onClick="toggleMenu()">
-      <div id="cont" class="line"></div>
-    </div>
-    <div id="nav" class="content">
-      <li> <a href="">Destaques</a> </li>
-    </div>
+    <div id="container">
         <div id="header">header</div>
-        <div id="navc">nav</div>
+        <div id="nav">nav</div>
         <div id="navb">nav2</div>
         <div id="main">main</div>
         <div id="footer">footer</div>
     </div>
-    <script src="app.js"></script>
 </body>
 </html>
