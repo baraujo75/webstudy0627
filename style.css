@@ -8,12 +8,12 @@
     font-weight: 300;
 }
 
-/* #container {
+ #container {
 	background-color: #658300;
 	width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
-} */
+}
 
 #header {
 	background-color: #a7d9c9;
@@ -58,7 +58,7 @@
 
 } */
 
-.container {
+/* .container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,10 +68,10 @@
     background-color: #F8CB47;
     transition: .2s;
 
-}
+} */
 
 .containerActive {
-    background-color: #eee;
+    background-color: #F8CB47;
 }
 
 .hamburguer {
